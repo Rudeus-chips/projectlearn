@@ -1,0 +1,3 @@
+/home/rudues/code/github/projectlearn/cmakeLearn/build/CMakeFiles/MyProject.dir
+/home/rudues/code/github/projectlearn/cmakeLearn/build/CMakeFiles/edit_cache.dir
+/home/rudues/code/github/projectlearn/cmakeLearn/build/CMakeFiles/rebuild_cache.dir
